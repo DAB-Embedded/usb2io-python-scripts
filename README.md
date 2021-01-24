@@ -1,6 +1,8 @@
 # USB2IO python scripts
 
-Python scripts for V2 and V3 of Python
+Python scripts for V2 and V3 of Python.
+
+Info about USB2IO device: https://usb2io.com/
 
 ## Requirements
 
